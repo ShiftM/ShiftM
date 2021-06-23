@@ -1,6 +1,6 @@
-<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
-
-<h1>Hi, my name is Luis Ramirez <a href="https://ashutoshhathidara.com/">Ashutosh (layman_brother)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<!-- <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+ -->
+<h1>Hi, my name is Luis Ramirez<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/master/my_image.jpeg" width="230" />
 
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
@@ -80,13 +80,3 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
   </ul>
 </details>
 
-<h3>What if you like my work? 🤩</h3>
-<ul>
-  <li>You can donate 💰 me 1 USD on my <a href="https://www.patreon.com/devsense">patreon profile</a>.</li>
-  <li>Subscribe to my <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ">YouTube Channel</a>.</li>
-  <li>You can Star ⭐ the repositories you like.</li>
-  <li>You can react ❤️ to my LinkedIn posts.</li>
-</ul>
-
-![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=ashutosh1919&color=blueviolet)  
-[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)  
